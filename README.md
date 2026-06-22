@@ -1,2 +1,2 @@
-# Miniproject-24-Resize-images
+# Miniproject-Resize-images
 This code downloads and resizes the images.
